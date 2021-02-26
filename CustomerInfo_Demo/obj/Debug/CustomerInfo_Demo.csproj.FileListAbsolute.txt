@@ -1,0 +1,10 @@
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\obj\Debug\CustomerInfo_Demo.csprojAssemblyReference.cache
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\obj\Debug\CustomerInfo_Demo.csproj.CoreCompileInputs.cache
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\bin\CustomerInfo_Demo.dll.config
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\bin\CustomerInfo_Demo.dll
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\bin\CustomerInfo_Demo.pdb
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\bin\Newtonsoft.Json.dll
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\obj\Debug\CustomerInfo_Demo.csproj.CopyComplete
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\obj\Debug\CustomerInfo_Demo.dll
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\obj\Debug\CustomerInfo_Demo.pdb
+C:\Dipali\SelfLearning\CustomerInfo_Demo\CustomerInfo_Demo\bin\Newtonsoft.Json.xml
